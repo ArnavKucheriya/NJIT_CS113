@@ -26,7 +26,7 @@ arrays. The third part delves deeper into object-oriented programming by explori
 polymorphism, abstract classes and finally discussing exception handling.
 
 Textbook: <br>
-Java Software Solutions, 9th edition – John Lewis & William Loftus, ISBN-13: 9780134462028
+- Java Software Solutions, 9th edition – John Lewis & William Loftus, ISBN-13: 9780134462028
 
 Materials Covered: <br>
 - Introduction to programming and Java programming language
