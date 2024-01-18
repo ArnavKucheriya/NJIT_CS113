@@ -9,6 +9,9 @@ CS 113 Course Class; created, Explored, and Developed.
 ## Editor Used
 - IntelliJ Idea Ultimate 2023.2.5 (64-bits)
 
+## Notes
+- Obsidian.md
+
 [NJIT B.S. Computer Science Degree Plan (Standard 4 Year)](https://catalog.njit.edu/undergraduate/computing-sciences/computer-science/bs/)
 
 [CS113 Pair Programming Guidelines](https://github.com/ArnavKucheriya/NJIT_CS113/blob/master/NJIT_CS113_Spring2024_Guidelines/CS113_Pair_Programming_Guidelines.pdf)r
