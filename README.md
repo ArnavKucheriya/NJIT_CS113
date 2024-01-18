@@ -23,6 +23,24 @@ statements. The second introduces object-oriented programming, methods, paramete
 arrays. The third part delves deeper into object-oriented programming by exploring inheritance, interfaces,
 polymorphism, abstract classes and finally discussing exception handling.
 
+Textbook: <br>
+Java Software Solutions, 9th edition – John Lewis & William Loftus, ISBN-13: 9780134462028
+
+Materials Covered: <br>
+Introduction to programming and Java programming language
+● Data and Expressions
+● Using Classes and Methods
+● Decisions and Loops
+● Arrays and File I/O
+● Objects-Oriented Programming
+a. Object-Oriented Design
+b. Defining Classes and creating Objects
+c. Defining methods
+d. Inheritance
+e. Polymorphism
+● Recursion
+● Exceptions 
+
 Kucheriya, Arnav  
 B.S. Computer Science  
 B.S. Computational Mathematics  
