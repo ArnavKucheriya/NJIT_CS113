@@ -27,14 +27,14 @@ Textbook: <br>
 Java Software Solutions, 9th edition – John Lewis & William Loftus, ISBN-13: 9780134462028
 
 Materials Covered: <br>
-Introduction to programming and Java programming language
+- Introduction to programming and Java programming language
 - Data and Expressions
 - Using Classes and Methods
 - Decisions and Loops
 - Arrays and File I/O
 - Object-Oriented Programming:
   - Object-Oriented Design
-  - Defining Classes and creating Objects
+  - Defining Classes and Creating Objects
   - Defining methods
   - Inheritance
   - Polymorphism
