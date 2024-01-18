@@ -10,6 +10,8 @@ CS 113 Course Class; created, Explored, and Developed.
 - IntelliJ Idea Ultimate 2023.2.5 (64-bits)
 
 [NJIT B.S. Computer Science Degree Plan (Standard 4 Year)](https://catalog.njit.edu/undergraduate/computing-sciences/computer-science/bs/)
+[CS113 Syllabus (Spring 2024)](https://github.com/ArnavKucheriya/NJIT_CS113/blob/master/NJIT_CS113_Spring2024_Guidelines/NJIT_CS113_Spring2024_Syllabus.pdf)https://github.com/ArnavKucheriya/NJIT_CS113/blob/master/NJIT_CS113_Spring2024_Guidelines/NJIT_CS113_Spring2024_Syllabus.pdf
+
 
 
 Kucheriya, Arnav  
