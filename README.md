@@ -1,20 +1,19 @@
 # NJIT_CS_113
-CS 113 Course Class; created, Explored, and Developed.
+CS 113 Course Class; created, Explored, and Developed. <br>
+[NJIT B.S. Computer Science Degree Plan (Standard 4 Year)](https://catalog.njit.edu/undergraduate/computing-sciences/computer-science/bs/)
+
 
 **New Jersey Institute of Technology \[NJIT]**
 
 ## Programming Languages Used
 - Java (Eclipse 17 (Temurin Version 17.0.8) (64-bits))
 
-## Editor Used
+### Editor Used
 - IntelliJ Idea Ultimate 2023.2.5 (64-bits)
 
-## Notes
+### Notes
 - Obsidian(.md)
 
-[NJIT B.S. Computer Science Degree Plan (Standard 4 Year)](https://catalog.njit.edu/undergraduate/computing-sciences/computer-science/bs/)
-
-[CS113 Pair Programming Guidelines](https://github.com/ArnavKucheriya/NJIT_CS113/blob/master/NJIT_CS113_Spring2024_Guidelines/CS113_Pair_Programming_Guidelines.pdf)r
 ## Syllabus Overview:
 [CS113 Syllabus (Spring 2024)](https://github.com/ArnavKucheriya/NJIT_CS113/blob/master/NJIT_CS113_Spring2024_Guidelines/NJIT_CS113_Spring2024_Syllabus.pdf)
 
@@ -45,6 +44,9 @@ Materials Covered: <br>
 - Exceptions
 
 <img width="443" alt="image" src="https://github.com/ArnavKucheriya/NJIT_CS113/assets/114359370/7f97c96b-d87c-4467-bb45-5e8291161cbe">
+
+## Pair Programming Guidelines
+[CS113 Pair Programming Guidelines](https://github.com/ArnavKucheriya/NJIT_CS113/blob/master/NJIT_CS113_Spring2024_Guidelines/CS113_Pair_Programming_Guidelines.pdf)
 
 Kucheriya, Arnav  
 B.S. Computer Science  
