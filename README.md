@@ -1,4 +1,4 @@
-# NJIT_CS
+# NJIT_CS_113
 CS 113 Course Class; created, Explored, and Developed.
 
 **New Jersey Institute of Technology \[NJIT]**
