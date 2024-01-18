@@ -32,12 +32,12 @@ Introduction to programming and Java programming language
 - Using Classes and Methods
 - Decisions and Loops
 - Arrays and File I/O
-- Objects-Oriented Programming
--- a. Object-Oriented Design
--- b. Defining Classes and creating Objects
--- c. Defining methods
--- d. Inheritance
--- e. Polymorphism
+- Object-Oriented Programming:
+  - Object-Oriented Design
+  - Defining Classes and creating Objects
+  - Defining methods
+  - Inheritance
+  - Polymorphism
 - Recursion
 - Exceptions 
 
