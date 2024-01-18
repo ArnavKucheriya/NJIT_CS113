@@ -39,7 +39,9 @@ Materials Covered: <br>
   - Inheritance
   - Polymorphism
 - Recursion
-- Exceptions 
+- Exceptions
+
+<img width="443" alt="image" src="https://github.com/ArnavKucheriya/NJIT_CS113/assets/114359370/7f97c96b-d87c-4467-bb45-5e8291161cbe">
 
 Kucheriya, Arnav  
 B.S. Computer Science  
