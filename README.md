@@ -28,18 +28,18 @@ Java Software Solutions, 9th edition – John Lewis & William Loftus, ISBN-13: 9
 
 Materials Covered: <br>
 Introduction to programming and Java programming language
-- ● Data and Expressions
-- ● Using Classes and Methods
-- ● Decisions and Loops
-- ● Arrays and File I/O
-- ● Objects-Oriented Programming
+- Data and Expressions
+- Using Classes and Methods
+- Decisions and Loops
+- Arrays and File I/O
+- Objects-Oriented Programming
 -- a. Object-Oriented Design
 -- b. Defining Classes and creating Objects
 -- c. Defining methods
 -- d. Inheritance
 -- e. Polymorphism
-- ● Recursion
-- ● Exceptions 
+- Recursion
+- Exceptions 
 
 Kucheriya, Arnav  
 B.S. Computer Science  
