@@ -5,7 +5,7 @@ CS 113 Course Class; created, Explored, and Developed. <br>
 
 **New Jersey Institute of Technology \[NJIT]**
 
-## Programming Languages Used
+### Programming Language Used
 - Java (Eclipse 17 (Temurin Version 17.0.8) (64-bits))
 
 ### Editor Used
