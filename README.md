@@ -10,7 +10,7 @@ CS 113 Course Class; created, Explored, and Developed.
 - IntelliJ Idea Ultimate 2023.2.5 (64-bits)
 
 ## Notes
-- Obsidian.md
+- Obsidian(.md)
 
 [NJIT B.S. Computer Science Degree Plan (Standard 4 Year)](https://catalog.njit.edu/undergraduate/computing-sciences/computer-science/bs/)
 
