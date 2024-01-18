@@ -13,7 +13,7 @@ CS 113 Course Class; created, Explored, and Developed.
 
 [CS113 Syllabus (Spring 2024)](https://github.com/ArnavKucheriya/NJIT_CS113/blob/master/NJIT_CS113_Spring2024_Guidelines/NJIT_CS113_Spring2024_Syllabus.pdf)
 
-
+[CS113 Pair Programming Guidelines](https://github.com/ArnavKucheriya/NJIT_CS113/blob/master/NJIT_CS113_Spring2024_Guidelines/CS113_Pair_Programming_Guidelines.pdf)
 
 Kucheriya, Arnav  
 B.S. Computer Science  
