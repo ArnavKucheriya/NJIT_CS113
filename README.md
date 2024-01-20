@@ -7,10 +7,8 @@ CS 113 Course Class; created, Explored, and Developed. <br>
 
 ### Programming Language Used
 - Java (Eclipse 17 (Temurin Version 17.0.8) (64-bits))
-
 ### Editor Used
 - IntelliJ Idea Ultimate 2023.2.5 (64-bits)
-
 ### Notes
 - Obsidian(.md)
 
