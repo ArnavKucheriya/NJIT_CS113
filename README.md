@@ -49,6 +49,6 @@ Materials Covered: <br>
 Kucheriya, Arnav  
 B.S. Computer Science  
 B.S. Computational Mathematics  
-ak2945@njit.edu •
+ak2945@njit.edu • ArnavKucheriya@outlook.com
 
 
