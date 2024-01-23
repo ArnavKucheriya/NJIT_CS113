@@ -7,10 +7,8 @@ CS 113 Course Class; created, Explored, and Developed. <br>
 
 ### Programming Language Used
 - Java (Eclipse 17 (Temurin Version 17.0.8) (64-bits))
-
 ### Editor Used
 - IntelliJ Idea Ultimate 2023.2.5 (64-bits)
-
 ### Notes
 - Obsidian(.md)
 
@@ -46,11 +44,12 @@ Materials Covered: <br>
 <img width="443" alt="image" src="https://github.com/ArnavKucheriya/NJIT_CS113/assets/114359370/7f97c96b-d87c-4467-bb45-5e8291161cbe">
 
 ## Pair Programming Guidelines
-[CS113 Pair Programming Guidelines](https://github.com/ArnavKucheriya/NJIT_CS113/blob/master/NJIT_CS113_Spring2024_Guidelines/CS113_Pair_Programming_Guidelines.pdf)
+[CS113 Pair Programming Guidelines](https://github.com/ArnavKucheriya/NJIT_CS113/blob/master/NJIT_CS113_Spring2024_Guidelines/CS113_Pair_Programming_Guidelines.pdf) 
 
+
+NJIT  
 Kucheriya, Arnav  
 B.S. Computer Science  
 B.S. Computational Mathematics  
-ak2945@njit.edu •
-
+ak2945@njit.edu • ArnavKucheriya@outlook.com  
 
