@@ -1,6 +1,5 @@
 import java.util.Arrays;
 import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
@@ -19,7 +18,7 @@ public class Main {
                 System.out.println("Reversed String");
             }
 
-            case 2 ->{
+            case 2 -> {
                 System.out.print("Enter another String to concatenate: ");
                 String conc = input.next();
 
@@ -31,7 +30,6 @@ public class Main {
 
                 default -> throw new IllegalStateException("Unexpected value: " + func);
         }
-
 
     }
 }
