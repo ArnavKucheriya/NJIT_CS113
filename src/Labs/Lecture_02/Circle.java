@@ -1,7 +1,8 @@
 package Labs.Lecture_02;
 // ************************************************************
 // Circle.java
-//
+// Author: Arnav Kucheriya
+// Lab: CS 113
 // Print the area of a circle with two different radii
 // ************************************************************
 import java.util.*;
