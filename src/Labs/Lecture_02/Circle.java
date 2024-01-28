@@ -23,12 +23,10 @@ public class Circle
         final double PI = 3.14159; //Value of Pi is defined
 
         double area1 = PI * radius1 * radius1;
-        System.out.println("The area of a circle with radius " + radius1 +
-                " is " + area1);
+        System.out.println("The area of a circle with radius " + radius1 + " is " + area1);
 
         double area2 = PI * radius2 * radius2;
-        System.out.println("The area of a circle with radius " + radius2 +
-                " is " + area2);
+        System.out.println("The area of a circle with radius " + radius2 + " is " + area2);
     }
     public static void circumferenceCalculation(int radius1, int radius2){
         final double PI = 3.14159; //Value of Pi is defined
