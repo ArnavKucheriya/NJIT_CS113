@@ -9,6 +9,7 @@ public class Paint {
         final int COVERAGE = 350; //paint covers 350 sq ft/gal
         int doorHeight=0, doorWidth = 0, windowHeight=0, windowWidth=0;
 
+        // Taking input from the user to determine the area of the room to be covered in paint.
         System.out.print("Enter the lenght of the room: ");
         int length = input.nextInt();
         System.out.print("Enter the width of the room: ");
@@ -16,6 +17,7 @@ public class Paint {
         System.out.print("Enter the height of the room: ");
         int height = input.nextInt();
 
+        // Taking the input from the user to determine the area of the room to be excluded (Doors).
         System.out.print("Enter the number of doors in the room: ");
         int doors = input.nextInt();
         if (doors>0) {
@@ -24,6 +26,7 @@ public class Paint {
             doorWidth = input.nextInt();
         }
 
+        // Taking the input from the user to determine the area of the room to be excluded (Windows).
         System.out.print("Enter the number of windows in the room: ");
         int windows = input.nextInt();
         if(windows>0){
@@ -32,20 +35,15 @@ public class Paint {
             windowWidth = input.nextInt();
         }
 
-        /*
-        // 2 (length * height) + 2 (width * height)
-
-        int length = 10;
-        int width = 20;
-        int height = 15;
-         */
-
+        // Computing the area of exclusion from the room (Doors and Windows).
         double doorSqFt = doors*(doorWidth*doorHeight);
         double windowSqFt = windows*(windowHeight*windowWidth);
 
         //System.out.println(doorSqFt + "\s" + windowSqFt);
 
+        // Calculating the total area of the room to be covered.
         double totalSqFt = (2*(length * height))+(2*(width * height))-(doorSqFt+windowSqFt);
+        // Calculating the gallons of paint required to cover the room.
         double paintNeeded = totalSqFt / COVERAGE;
 
         System.out.println();
