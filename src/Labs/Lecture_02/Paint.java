@@ -1,4 +1,5 @@
 package Labs.Lecture_02;
+// Arnav Kucheriya - CS 113 - Spring 2024 - NJIT
 
 import java.util.*;
 public class Paint {
