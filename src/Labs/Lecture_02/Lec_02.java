@@ -1,7 +1,6 @@
-package Labs.Lecture_03;
-import java.sql.SQLOutput;
+package Labs.Lecture_02;
 import java.util.*;
-public class Lec_03 {
+public class Lec_02 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
