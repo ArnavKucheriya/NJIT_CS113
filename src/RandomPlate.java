@@ -3,6 +3,7 @@
  */
 
 import java.util.*;
+
 public class RandomPlate {
     public static void main(String[] args) {
         // Generate random letters

@@ -1,4 +1,5 @@
 import java.util.*;
+
 public class ClientBandBooster {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
@@ -11,19 +12,19 @@ public class ClientBandBooster {
         BandBooster booster1 = new BandBooster(name1);
         BandBooster booster2 = new BandBooster(name2);
 
-        System.out.print("Enter sales for week 1 by "+name1+": ");
+        System.out.print("Enter sales for week 1 by " + name1 + ": ");
         int saleWeek1 = input.nextInt();
         booster1.updateSales(saleWeek1);
 
-        System.out.print("Enter sales for week 1 by "+name2+": ");
+        System.out.print("Enter sales for week 1 by " + name2 + ": ");
         int saleb2_Week1 = input.nextInt();
         booster2.updateSales(saleb2_Week1);
 
-        System.out.print("Enter sales for week 2 by "+name1+": ");
+        System.out.print("Enter sales for week 2 by " + name1 + ": ");
         int saleWeek2 = input.nextInt();
         booster1.updateSales(saleWeek2);
 
-        System.out.print("Enter sales for week 2 by "+name2+": ");
+        System.out.print("Enter sales for week 2 by " + name2 + ": ");
         int saleb2_Week2 = input.nextInt();
         booster2.updateSales(saleb2_Week2);
 
