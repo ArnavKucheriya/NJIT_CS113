@@ -27,9 +27,9 @@ public class Salary {
         System.out.print("Enter the performance rating (Excellent, Good, or Poor): ");
         rating = scan.next();
 
-        if(rating.equalsIgnoreCase("Excellent"))
+        if (rating.equalsIgnoreCase("Excellent"))
             raise = currentSalary * 0.06;
-        else if(rating.equalsIgnoreCase("Good"))
+        else if (rating.equalsIgnoreCase("Good"))
             raise = currentSalary * 0.04;
         else
             raise = currentSalary * 0.015;
