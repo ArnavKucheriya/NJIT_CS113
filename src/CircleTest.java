@@ -10,11 +10,14 @@ public class CircleTest {
         // Instantiate two Circle objects
         System.out.print("Enter radius for Circle 1: ");
         int radius1 = scanner.nextInt();
+
+        // Creating a new circle object and initializing its intake parameters
         Circle circle1 = new Circle(point1, radius1);
 
+        // Creating a new Circle with radius of 5
         Circle circle2 = new Circle(point2, 5);
 
-        // Print summary of each circle
+        // Print the summary of each circle
         System.out.println("Circle 1: " + circle1.toString());
         System.out.println("Circle 2: " + circle2.toString());
 
@@ -26,7 +29,7 @@ public class CircleTest {
             double averageCircumference = (circle1.circumference() + circle2.circumference()) / 2;
             System.out.println("The average circumference is: " + averageCircumference);
         }
-
+        // Closing Scanner
         scanner.close();
     }
 }

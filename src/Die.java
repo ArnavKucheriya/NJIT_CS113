@@ -13,8 +13,9 @@ public class Die {
         faceValue = newFaceValue;
     }
 
-    public void roll() {
+    public int roll() {
         faceValue = (int) (Math.random() * 6) + 1;
+        return faceValue;
     }
 
     //getter method
